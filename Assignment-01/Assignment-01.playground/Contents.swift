@@ -37,7 +37,6 @@ var y = 25.0
 // 2.b) Fix the error in the question 2.a
 
 y = Double(x)
-print("------------------------------")
 //**************** END OF QUESTION 2 ****************
 
 
